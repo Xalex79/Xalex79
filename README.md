@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a basic project involving the use of Arduino, Android, the creation and management of a MongoDB Backend with Expressif and Typescript and a basic Frontend interface.
-- 🌱 I’m currently learning all kinds of proramming languages and professional software tools. 
-- 👯 I’m looking to collaborate on learning projects and student internships.
-- ⚡ Fun fact: All relevant projects I've worked on are pinned in my profile.
+- 🔭 I’m currently working on a project for an autonomous robot that manages organic poultry farms.
+- 🌱 I’m currently learning ROS2, Python and Artificial Vision for image recognition. 
+- 👯 I’m looking to collaborate on learning projects and student internships in the Valencian Community (Spain).
+- ⚡ Fun fact: The most relevant projects I've worked on are pinned in my profile.
