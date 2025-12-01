@@ -27,13 +27,6 @@ Implementación de soluciones con AWS, desarrollo de Alexa Skills, e integració
 
 Mi trabajo se centra en la intersección entre software, hardware e inteligencia artificial, con especial énfasis en robótica y automatización. Busco desarrollar soluciones tecnológicas orientadas a la sostenibilidad.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xalex79&show_icons=true&theme=graywhite&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Xalex79&theme=graywhite&hide_border=true" height="150" alt="GitHub Streak"/>
-</p>
-
 ## Contacto
 
 <p align="center">
