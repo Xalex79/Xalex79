@@ -1,33 +1,41 @@
 # Alex Rosado
 
-Estudiante de Tecnologías Interactivas en la Universidad Politécnica de Gandía (UPV), especializado en desarrollo de software interactivo, robótica y sistemas embebidos.
+Junior DevOps / SRE engineer based in Valencia, Spain.
 
-## Especialización
+I recently completed a 7-month internship in an SRE & Observability team, working on the production environment of a Spanish airline, and graduated in Interactive Technologies at the Universitat Politècnica de València (bachelor's thesis graded 9/10).
 
-**Desarrollo Android (Java)**  
-Aplicaciones móviles con arquitectura MVVM, implementando ViewModel, LiveData y diseño de interfaces estructuradas.
+## What I work on
 
-**Robótica con ROS2 (Python)**  
-Desarrollo de nodos para publicación/suscripción, navegación autónoma, visión artificial e integración de sensores.
+**Observability & reliability**
+Monitoring, alerting and dashboards with New Relic (NRQL, NerdGraph), OpenTelemetry, Fluent Bit and eBPF (Pixie). Root cause analysis and reducing alert fatigue.
 
-**Electrónica y Sistemas Embebidos (C++)**  
-Programación de microcontroladores (ESP32, Arduino, Raspberry Pi) con integración de sensores y actuadores.
+**Infrastructure as Code & CI/CD**
+Terraform, Kubernetes and Helm. GitLab CI pipelines with GitFlow, security scanning (Trivy) and semantic-release.
 
-**Servicios Cloud y APIs**  
-Implementación de soluciones con AWS, desarrollo de Alexa Skills, e integración de APIs (OpenAI ChatGPT, Gemini).
+**Automation & applied AI**
+Python and PowerShell automation, and LLM-based agents (Claude) with guardrails and human review for large-scale changes.
 
-## Stack Tecnológico
+**Embedded systems & IoT** (background)
+ESP32, Arduino and Raspberry Pi projects with sensors, BLE and ROS2.
 
-**Lenguajes:** Java, TypeScript, Python, C++  
-**Frameworks:** Android Jetpack, ROS2, React + Vite, TailwindCSS  
-**Herramientas:** Docker, Git, Linux, MongoDB, OpenCV, AWS  
-**Hardware:** ESP32, Raspberry Pi, Arduino, sensores ambientales
+## Highlights
 
-## Enfoque
+- Built an internal Python tool that audits 500+ alerts per run and detects drift between production and Terraform. It became the basis of my bachelor's thesis.
+- Instrumented about 40 production Azure Automation runbooks, exposing silent failures that had been reported as successful runs.
+- Built an AI agent PoC that renamed ~470 of ~500 Terraform alerts to a naming convention, routing the rest to human review.
+- 2nd place in the Revolut Challenge at HackUPC 2025.
 
-Mi trabajo se centra en la intersección entre software, hardware e inteligencia artificial, con especial énfasis en robótica y automatización. Busco desarrollar soluciones tecnológicas orientadas a la sostenibilidad.
+Most of my professional work lives in private repositories. The public projects here come from university and hackathons.
 
-## Contacto
+## Tech stack
+
+**Cloud & containers:** Kubernetes, Helm, Docker, Azure, AWS (Lambda, S3)
+**IaC & CI/CD:** Terraform, GitLab CI, Git
+**Observability:** New Relic, OpenTelemetry, Fluent Bit
+**Languages:** Python, PowerShell, Bash, Java, C++, TypeScript
+**Hardware:** ESP32, Raspberry Pi, Arduino
+
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexrosjim/">
